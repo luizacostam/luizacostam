@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Luiza 
 
-- 🔭 I’m currently working on django/python projects and i'm working at SEDUC (Secretaria de Educação) 
+- 🔭 I’m currently working at SEDUC (Secretaria de Educação) 
 - 🌱 I’m studying at UFAL (Universidade Federal de Alagoas) 
 - 😄 Pronouns: she/her
 
