@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working at SEDUC (Secretaria de Educação) 
 - 🌱 I’m studying at UFAL (Universidade Federal de Alagoas) 
-- 😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/luizacostam">
