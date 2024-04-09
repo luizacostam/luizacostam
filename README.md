@@ -1,7 +1,10 @@
-### Olá! Eu sou a Luiza 
+### Hi there! I'm Luiza
 
 - 🔭 I’m currently working at SEDUC (Secretaria de Educação) 
-- 🌱 I’m studying at UFAL (Universidade Federal de Alagoas) 
+- 🌱 I’m studying at UFAL (Universidade Federal de Alagoas)
+- 🌱 I'm part of Edge Academy
+- 🔭 I'm part of the production team at Katie's project from UFAL. 
+  
 
 <div>
   <a href="https://github.com/luizacostam">
