@@ -1,8 +1,7 @@
 ### Hi there! I'm Luiza
 
-- 🔭 I’m currently working at SEDUC (Secretaria de Educação) 
 - 🌱 I’m studying at UFAL (Universidade Federal de Alagoas)
-- 🌱 I'm part of Edge Academy
+- 🌱 I'm part of Edge Academy, working with the AI team.
 - 🔭 I'm part of the production team at Katie's project from UFAL. 
   
 
@@ -20,6 +19,8 @@
   <img align="center" alt="Luiza-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Luiza-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Luiza-ReacNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Luiza-ReacNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Luiza-ReacNative" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
 </div>
 
 ##
